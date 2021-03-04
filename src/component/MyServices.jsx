@@ -9,7 +9,7 @@ const MyService = () => {
     }, []);
 
     return(
-        <div className="service-title" id="Services">
+        <div className="service" id="Services">
             <div id="title-1">WHAT I DO</div>
             <div id="title-2">My services</div>
             <div className="row" data-aos="fade-up">

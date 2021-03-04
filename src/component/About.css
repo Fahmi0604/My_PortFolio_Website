@@ -1,7 +1,7 @@
 .About {
     width: 100%;
     height: auto;
-    margin-bottom: 300px;
+    /* margin-bottom: 100px; */
     padding-top: 100px;
 }
 
@@ -32,12 +32,12 @@
 #aboutMe {
     color: rgba(255, 255, 255, .6);
     font-size: 20px;
-    word-spacing: 10px;
     letter-spacing: 5px;
     width: 500px;
     float: right;
     margin-right: -625px;
     margin-top: 175px;
+    text-align: justify;
 }
 
 #resumeLink {

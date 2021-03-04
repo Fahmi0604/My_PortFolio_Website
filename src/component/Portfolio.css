@@ -1,0 +1,62 @@
+.portfolio {
+    padding-top: 100px;
+}
+
+#title-1 {
+    display: flex;
+    justify-content: center;
+    color: rgba(255,255,255, .6);
+    font-size: 15px;
+    letter-spacing: 10px;
+    margin-bottom: 20px;
+}
+
+#title-2 {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.portfolio-1 img {
+    width: 350px;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+#title-body {
+    color: rgba(255,255,255, .6);
+    font-size: 15px;
+    float: right;
+    margin-right: 650px;
+    margin-top: 250px;
+}
+
+#project-title {
+    color: #fff;
+    font-size: 35px;
+    font-weight: 700;
+    float: right;
+    margin-right: -180px;
+    margin-top: 280px;
+}
+
+#project-body {
+    color: rgba(255,255,255, .6);
+    font-size: 25px;
+    float: right;
+    width: 575px;
+    margin-right: -575px;
+    margin-top: 350px;
+    word-spacing: 5px;
+    text-align: justify;
+}
+
+#project-view {
+    color: #2f89fc;
+    font-size: 20px;
+    float: right;
+    margin-right: -110px;
+    margin-top: 490px;
+}

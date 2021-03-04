@@ -31,7 +31,7 @@ const Header = () => {
                             <li><Link activeClass="active" to="About" spy={true} smooth={true} offset={0} duration={1500}>
                                 About
                             </Link></li>
-                            <li><Link activeClass="active" to="About" spy={true} smooth={true} offset={0} duration={1500}>
+                            <li><Link activeClass="active" to="Portfolio" spy={true} smooth={true} offset={0} duration={1500}>
                                 Portfolio
                             </Link></li>
                             <li><Link activeClass="active" to="Services" spy={true} smooth={true} offset={0} duration={1500}>
