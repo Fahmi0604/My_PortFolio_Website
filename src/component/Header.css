@@ -1,0 +1,85 @@
+.TopBar {
+    padding: 40px;
+}
+
+.nameLogo {
+    font-size: 20px;
+    font-weight: 800;
+    font-family: 'Roboto', sans-serif;
+    float: left;
+    color: #fff;
+    margin-left: 20px;
+    margin-top: 12px;
+    letter-spacing: 4px;
+}
+
+.photoProfile {
+    width: 50px;
+    float: left;
+    margin-left: 20px;
+}
+
+.TopBar #SideBar {
+    float: right;
+}
+
+.burgerMenu {
+    width: 35px;
+    height: 5px;
+    background-color: #fff;
+    margin: 6px 0;
+
+}
+
+.title {
+    margin: 320px 0px;
+}
+
+#title1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    color: rgba(255, 255, 255, .6);
+    font-weight: 400;
+    letter-spacing: 4px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+#title2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    color: #fff;
+    font-size: 55px;
+    font-weight: 700;
+    letter-spacing: 10px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+      letter-spacing: 4px;
+      font-size: 15px;
+      float: right;
+      font-weight: 400;
+  }
+  
+  li a {
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    color: rgba(255, 255, 255, .6);
+  }

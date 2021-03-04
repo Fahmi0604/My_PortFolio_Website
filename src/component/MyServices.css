@@ -1,0 +1,48 @@
+.service-title {
+    /* padding-top: 200px; */
+    margin-bottom: 500px;
+}
+
+#title-1 {
+    display: flex;
+    justify-content: center;
+    color: rgba(255,255,255, .6);
+    font-size: 15px;
+    letter-spacing: 10px;
+    margin-bottom: 20px;
+}
+
+#title-2 {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.row {
+    margin-top: 100px;
+}
+
+.row a {
+    color: #2f89fc;
+    font-size: 65px;
+    margin-left: -15px;
+}
+
+#service-1 {
+    margin-left: 150px;
+}
+
+.column {
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+    text-align: center;
+}
+
+.column p {
+    color: #fff;
+    font-size: 20px;
+}
+

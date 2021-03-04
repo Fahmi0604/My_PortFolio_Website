@@ -1,0 +1,19 @@
+.fa {
+    padding: 20px;
+    font-size: 25px;
+    width: 25px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    margin-right: 10px;
+    border-radius: 50%;
+  }
+
+  .fa:hover {
+      color: #fff;
+  }
+
+  .fa-chevron-up {
+    background: rgba(255, 255, 255, .05);
+    color: #2f89fc;
+  }
