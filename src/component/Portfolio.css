@@ -1,5 +1,6 @@
 .portfolio {
-    padding-top: 100px;
+    padding-top: 50px;
+    margin-bottom: 350px;
 }
 
 #title-1 {
@@ -20,12 +21,15 @@
 }
 
 .portfolio-1 img {
-    width: 350px;
+    object-fit: cover;
+    width: 400px;
+    height: 500px;
     margin-top: 100px;
     margin-left: 200px;
+    border-radius: 10px;
 }
 
-#title-body {
+#title-body-1 {
     color: rgba(255,255,255, .6);
     font-size: 15px;
     float: right;
@@ -33,30 +37,121 @@
     margin-top: 250px;
 }
 
-#project-title {
+#project-title-1 {
     color: #fff;
-    font-size: 35px;
-    font-weight: 700;
+    font-size: 30px;
+    font-weight: 400;
     float: right;
-    margin-right: -180px;
+    margin-right: -145px;
     margin-top: 280px;
 }
 
-#project-body {
+#project-body-1 {
     color: rgba(255,255,255, .6);
-    font-size: 25px;
+    font-size: 20px;
     float: right;
-    width: 575px;
-    margin-right: -575px;
-    margin-top: 350px;
+    width: 450px;
+    margin-right: -450px;
+    margin-top: 340px;
     word-spacing: 5px;
     text-align: justify;
 }
 
-#project-view {
+#project-view-1 {
     color: #2f89fc;
     font-size: 20px;
     float: right;
     margin-right: -110px;
-    margin-top: 490px;
+    margin-top: 450px;
+}
+
+.portfolio-2 img {
+    float: right;
+    object-fit: cover;
+    width: 400px;
+    height: 500px;
+    margin-top: 100px;
+    margin-right: 200px;
+    border-radius: 10px;
+}
+
+#title-body-2 {
+    color: rgba(255,255,255, .6);
+    font-size: 15px;
+    float: left;
+    margin-left: 300px;
+    margin-top: 250px;
+}
+
+#project-title-2 {
+    color: #fff;
+    float: left;
+    font-size: 30px;
+    font-weight: 400;
+    margin-left: -95px;
+    margin-top: 280px;
+}
+
+#project-body-2 {
+    color: rgba(255,255,255, .6);
+    font-size: 20px;
+    float: left;
+    width: 450px;
+    margin-left: -175px;
+    margin-top: 340px;
+    word-spacing: 5px;
+    text-align: justify;
+}
+
+#project-view-2 {
+    color: #2f89fc;
+    float: left;
+    font-size: 20px;
+    margin-left: -450px;
+    margin-top: 450px;
+}
+
+.portfolio-3 img {
+    object-fit: cover;
+    width: 400px;
+    height: 500px;
+    margin-top: 250px;
+    margin-left: 200px;
+    border-radius: 10px;
+}
+
+#title-body-3 {
+    color: rgba(255,255,255, .6);
+    font-size: 15px;
+    float: right;
+    margin-right: 500px;
+    margin-top: -350px;
+}
+
+#project-title-3 {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 400;
+    float: right;
+    margin-right: 370px;
+    margin-top: -320px;
+}
+
+#project-body-3 {
+    color: rgba(255,255,255, .6);
+    font-size: 20px;
+    float: right;
+    width: 450px;
+    margin-right: 305px;
+    margin-top: -260px;
+    word-spacing: 5px;
+    text-align: justify;
+}
+
+#project-view-3 {
+    color: #2f89fc;
+    font-size: 20px;
+    float: right;
+    margin-right: 645px;
+    margin-top: -125px;
 }

@@ -25,7 +25,7 @@ const Header = () => {
 
                 <div className="navBar">
                     <ul>
-                            <li><Link activeClass="active" to="Contact" spy={true} smooth={true} offset={0} duration={1500}>
+                            <li><Link activeClass="active" to="Footer" spy={true} smooth={true} offset={0} duration={1500}>
                                 Contact
                             </Link></li>
                             <li><Link activeClass="active" to="About" spy={true} smooth={true} offset={0} duration={1500}>

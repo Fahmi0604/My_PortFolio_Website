@@ -3,6 +3,7 @@ import Header from './Header'
 import About from './About'
 import MyService from './MyServices'
 import Portfolio from './Portfolio'
+import Footer from './Footer'
 // import 'bootstrap/dist/css/bootstrap.min.css';
 import './MainContent.css'
 import BackToTop from 'react-back-to-top-button'
@@ -16,6 +17,7 @@ class MainContent extends Component {
                 <About />
                 <MyService />
                 <Portfolio />
+                <Footer />
                 <BackToTop showOnScrollUp showAt={100} speed={1500} easing="easeInOutQuint">
                     <a href="#Back" className="fa fa-chevron-up"> </a>
                 </BackToTop>
