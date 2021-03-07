@@ -6,12 +6,12 @@ import 'aos/dist/aos.css'
 
 const Header = () => {
     useEffect(() => {
-        Aos.init({duration: 2000});
+        Aos.init({duration: 1000});
     }, []);
 
     return (
         <section className="About" id="About">
-            <img data-aos="slide-up" className="photoAbout" src={aboutPhoto} alt="aboutPhoto" />
+            <img data-aos="fade-up" className="photoAbout" src={aboutPhoto} alt="aboutPhoto" />
             <div id="aboutLogo">ABOUT</div>
             <div id="name">Hi! I'm Fahmi Firmansyah</div>
             <div id="aboutMe">Far far Away, behind the world mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</div>

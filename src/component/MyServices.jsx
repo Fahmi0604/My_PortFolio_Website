@@ -12,7 +12,7 @@ const MyService = () => {
         <div className="service" id="Services">
             <div id="title-1">WHAT I DO</div>
             <div id="title-2">My services</div>
-            <div className="row" data-aos="fade-up">
+            <div className="row" >
                 <div className="column" id="service-1">
                     <a href="#Services" className="fa fa-code"> </a>
                     <p>Web development</p>
