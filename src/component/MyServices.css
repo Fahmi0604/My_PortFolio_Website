@@ -1,7 +1,7 @@
 .service {
     padding-top: 200px;
     margin-top: 100px;
-    margin-bottom: 500px;
+    margin-bottom: 10rem;
 }
 
 #title-1 {
@@ -23,6 +23,8 @@
 
 .row-service {
     margin-top: 100px;
+    display: flex;
+    justify-content: center;
 }
 
 .row-service a {
@@ -31,9 +33,9 @@
     margin-left: -15px;
 }
 
-#service-1 {
-    margin-left: 150px;
-}
+/* #service-1 {
+    /* margin-left: 150px; */
+/* } */ 
 
 .column-service {
     float: left;
