@@ -21,11 +21,11 @@
     font-weight: 700;
 }
 
-.row {
+.row-service {
     margin-top: 100px;
 }
 
-.row a {
+.row-service a {
     color: #2f89fc;
     font-size: 65px;
     margin-left: -15px;
@@ -35,14 +35,14 @@
     margin-left: 150px;
 }
 
-.column {
+.column-service {
     float: left;
     width: 25%;
     padding: 0 10px;
     text-align: center;
 }
 
-.column p {
+.column-service p {
     color: #fff;
     font-size: 20px;
 }
