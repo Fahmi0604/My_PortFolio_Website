@@ -1,0 +1,28 @@
+/* .Profile {
+
+} */
+
+.profile-content {
+    padding: 0 20rem;
+    padding-top: 20rem;
+}
+
+#profile-title {
+    color: #fff;
+    font-size: 2em;
+    margin-bottom: 1rem;
+}
+
+#profile-title-2 {
+    width: 65vw;
+    color: #fff;
+    font-size: 1.5em;
+    margin-bottom: 1rem;
+}
+
+ #profile-body {
+    width: 61.5vw;
+    color: rgba(255, 255, 255, .6);
+    font-size: 1em;
+    margin-bottom: 1rem;
+ }

@@ -3,7 +3,7 @@ import './Header.css';
 import profilePhoto from '../assets/image.png';
 import Aos from 'aos';
 import 'aos/dist/aos.css';
-import { Link as LinkScroll } from 'react-scroll';
+// import { Link as LinkScroll } from 'react-scroll';
 // import Home from './MainContent';
 
 const Header = () => {
@@ -14,7 +14,7 @@ const Header = () => {
 
     return (
             <div className="TopBar">
-                <img className="photoProfile" src={profilePhoto} alt="photoProfile" />
+                <a href="/"><img className="photoProfile" src={profilePhoto} alt="photoProfile" /> </a>
                 <p className="nameLogo">FAHMI FIRMANSYAH</p>
 
                 {/* <button id="SideBar">
@@ -23,11 +23,11 @@ const Header = () => {
                     <div className="burgerMenu"></div>
                 </button> */}
 
-                <div className="navBar">
+                {/* <div className="navBar">
                     <ul>
                         <li>
                             <LinkScroll activeClass="active" to="Footer" spy={true} smooth={true} offset={0} duration={1500}>
-                                {/* <Link to="/Contact">Contact</Link> */}
+                                <Link to="/Contact">Contact</Link>
                                 Contact
                             </LinkScroll>
                         </li>
@@ -46,19 +46,18 @@ const Header = () => {
                                 Services
                             </LinkScroll>
                         </li>
-                        {/* <li>
+                        <li>
                             <LinkScroll activeClass="active" to="About" spy={true} smooth={true} offset={0} duration={1500}>
                                 Resume
                             </LinkScroll>
-                        </li> */}
+                        </li>
                         <li>
                             <LinkScroll activeClass="active" to="About" spy={true} smooth={true} offset={0} duration={1500}>
-                                {/* <Link to="/">Home</Link> */}
                                 Home
                             </LinkScroll>
                         </li>
                     </ul>
-                </div>
+                </div> */}
 
                 <div data-aos="fade-up" className="title">
                     <div id="title1">I'M FROM MALANG</div>

@@ -19,7 +19,9 @@ const Header = () => {
                     <div id="aboutLogo">ABOUT</div>
                     <div id="name">Hi! I'm Fahmi Firmansyah</div>
                     <div id="aboutMe">Far far Away, behind the world mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</div>
-                    <div id="resumeLink">Checkout my resume</div>
+                    <div id="resumeLink">
+                        <a href="/resume">Checkout my resume</a>
+                    </div>
                     <div className="link">
                         <a href="www.facebook.com" class="fa fa-facebook" > </a>
                         <a href="www.twitter.com" class="fa fa-twitter" > </a>

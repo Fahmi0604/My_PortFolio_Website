@@ -1,29 +1,27 @@
 import React, { Component } from 'react'
-import Header from './Header'
-import About from './About'
-import MyService from './MyServices'
-import Portfolio from './Portfolio'
-import Footer from './Footer'
-// import 'bootstrap/dist/css/bootstrap.min.css';
-import './MainContent.css'
-import BackToTop from 'react-back-to-top-button'
+import Home from '../Home/HomeContent'
+import Resume from '../Resume/ResumeContent';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
 class MainContent extends Component {
 
     render() {
         return (
-            <div className="container">
-                <Header />
-                <About />
-                <MyService />
-                <Portfolio />
-                <Footer />
-                <BackToTop showOnScrollUp showAt={100} speed={1500} easing="easeInOutQuint">
-                    <a href="#Back" className="fa fa-chevron-up"> </a>
-                </BackToTop>
-            </div>
+            <Router>
+
+            <Switch>
+                 <Route exact path="/">
+                    <Home />
+                 </Route>
+                 <Route path="/resume">
+                     <Resume />
+                 </Route>
+                 {/* <Route path="/Contact" component={Resume} /> */}
+            </Switch>
+
+            </Router>
         )
     }
 }
 
-export default MainContent
+export default MainContent;
