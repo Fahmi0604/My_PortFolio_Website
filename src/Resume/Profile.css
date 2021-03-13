@@ -3,26 +3,50 @@
 } */
 
 .profile-content {
-    padding: 0 20rem;
-    padding-top: 20rem;
+    padding: 0 17.5rem;
+    padding-top: 10rem;
+    text-align: justify;
+    margin-bottom: 10rem;
 }
 
 #profile-title {
     color: #fff;
-    font-size: 2em;
-    margin-bottom: 1rem;
+    font-size: 2.5em;
+    margin-bottom: 1.5rem;
 }
 
 #profile-title-2 {
     width: 65vw;
     color: #fff;
-    font-size: 1.5em;
-    margin-bottom: 1rem;
+    font-size: 1.8em;
+    margin-bottom: 1.5rem;
 }
 
  #profile-body {
-    width: 61.5vw;
+    width: 65vw;
     color: rgba(255, 255, 255, .6);
-    font-size: 1em;
-    margin-bottom: 1rem;
+    font-size: 1.3em;
+    margin-bottom: 3rem;
+ }
+
+ .title-body {
+     display: flex;
+     color: #fff;
+     font-size: 1.3em;
+     margin-bottom: 1.5rem;
+ }
+
+ #profile-name {
+     margin-left: 2.5rem;
+     color: rgba(255, 255, 255, .6);   
+ }
+
+ #profile-address {
+     margin-left: 1rem;
+     color: rgba(255, 255, 255, .6);
+ }
+
+ #profile-phone {
+     margin-left: 2rem;
+     color: rgba(255, 255, 255, .6);
  }

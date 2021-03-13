@@ -1,0 +1,21 @@
+.skill-content {
+    padding: 0 17.5rem;
+    margin-bottom: 10rem;
+}
+
+#skill-title {
+    color: #fff;
+    font-size: 2.5rem;
+    margin-bottom: 2.5rem;
+}
+
+.progresbar {
+    margin-bottom: 1rem;
+}
+
+.progresbar label {
+    color: #fff;
+    font-size: 1.5rem;
+    display: inline-block;
+    margin-bottom: 1rem;
+}
