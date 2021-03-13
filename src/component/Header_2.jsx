@@ -16,6 +16,7 @@ const Header = () => {
             <div className="TopBar">
                 <a href="/"><img className="photoProfile" src={profilePhoto} alt="photoProfile" /> </a>
                 <p className="nameLogo">FAHMI FIRMANSYAH</p>
+                <a href="/"><button id="btn-backHome"><i className="fa fa-chevron-left"></i> <p>HOME</p></button></a>
 
                 {/* <button id="SideBar">
                     <div className="burgerMenu"></div>
@@ -59,10 +60,10 @@ const Header = () => {
                     </ul>
                 </div> */}
 
-                <div data-aos="fade-up" className="title">
+                {/* <div data-aos="fade-up" className="title">
                     <div id="title1">I'M FROM MALANG</div>
                     <div id="title2">A WEB DEVELOPER</div>
-                </div>
+                </div> */}
             </div>
     )
 }

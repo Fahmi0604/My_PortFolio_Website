@@ -1,0 +1,40 @@
+.activities-content {
+    padding: 0 17.5rem;
+    margin-bottom: 10rem;
+}
+
+#activities-title {
+    color: #fff;
+    font-size: 2.5em;
+    margin-bottom: 2.5rem;
+}
+
+.title-position {
+    width: 65vw;
+    display: flex;
+    color: #fff;
+    font-size: 1.65em;
+}
+
+.title-activities {
+    color: rgba(255, 255, 255, .6);
+    padding-left: 0.5rem;
+}
+
+.title-year {
+    color: rgba(255, 255, 255, .6);
+    font-size: 1.25em;
+    margin-top: 1rem;
+}
+
+.title-city {
+    color: rgba(255, 255, 255, .6);
+    font-size: 1.25em;
+    margin-top: 1rem;
+}
+
+.activities-body hr {
+    opacity: 0.05;
+    width: 62vw;
+    margin: 2rem 0;
+}
