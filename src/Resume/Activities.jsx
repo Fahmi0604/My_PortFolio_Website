@@ -5,7 +5,7 @@ const Activities = () => {
     return(
         <div className="Activities">
             <div className="activities-content">
-                <div id="activities-title">Activities</div>
+                <div id="activities-title">Extracurricular Activities</div>
                 <div className="activities-body">
                     <div className="title-position">
                     Deputy Head of the Software Division

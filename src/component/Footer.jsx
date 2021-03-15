@@ -10,7 +10,7 @@ const Footer = () => {
                     <a href="www.twitter.com" class="fa fa-twitter" > </a>
                     <a href="www.instagram.com" class="fa fa-instagram"> </a>
                 </div>
-                <div id="title-contact">Contact Us</div>
+                <div id="title-contact"><a href="/contact">Contact Us</a></div>
                 <div id="email-contact">fahmifirmansyah917@gmail.com</div>
                 <div id="copyright">Copyright ©2021 All rights reserved | This template is made with ❤️ by Fahmi</div>
             </div>

@@ -16,23 +16,23 @@ code {
 }
 
 #rectangel1 {
-  width: 1200px;
-  height: 700px;
+  width:100vw;
+  height: 80vh;
   border: 2px solid rgba(255, 255, 255, .05);
   position: fixed;
   z-index: -1;
-  margin-left: 1000px;
-  margin-top: -425px;
+  margin-left: 65rem;
+  margin-top: -25rem;
   transform: rotate(-25deg);
 }
 
 #rectangel2 {
-  width: 1200px;
-  height: 700px;
+  width: 80vw;
+  height: 80vh;
   border: 2px solid rgba(255, 255, 255, .05);
   position: fixed;
   z-index: -1;
-  margin-left: -800px;
-  margin-top: 700px;
+  margin-left: -47rem;
+  margin-top: 45rem;
   transform: rotate(-70deg);
 }

@@ -12,7 +12,7 @@ const Profile = () => {
                     Name:<div id="profile-name">Fahmi Firmansyah</div>
                 </div>
                 <div className="title-body">
-                    Address:<div id="profile-address">Jl. Simpang tiga ex menangas Km 01 banyubiru Pandan, Pandan, Kebonrejo, Kec. Grati, Pasuruan, Jawa Timur 67184</div>
+                    Address:<div id="profile-address">Raya Menangas Street, Kebonrejo Pasuruan East Java 67184 </div>
                 </div>
                 <div className="title-body">
                     Phone: <div id="profile-phone">+6282118598937</div>
