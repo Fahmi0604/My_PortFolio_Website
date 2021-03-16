@@ -136,9 +136,9 @@
     margin-top: -20px;
 }
 
-@media screen 
-and (min-device-width: 1200)
-and (max-device-width: 1600)
+@media only screen 
+and (min-width : 1224px)
+and (max-width: 1600px)
 and (-webkit-min-device-pixel-ratio: 1) {
     .About {
         padding-top: 3rem;
@@ -151,7 +151,7 @@ and (-webkit-min-device-pixel-ratio: 1) {
 
     #name {
         font-size: 2em;
-        margin-left: 2.5;
+        margin-left: 2.5rem;
     }
 
     #aboutMe {
