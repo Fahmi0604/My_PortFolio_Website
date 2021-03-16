@@ -17,7 +17,7 @@ const Skill = () => {
                 </div>
                 <div className="progresbar">
                     <label htmlFor="">Javascript</label>
-                    <ProgressBar completed={65} bgcolor="#2f89fc" baseBgColor="transparent"/>
+                    <ProgressBar completed={50} bgcolor="#2f89fc" baseBgColor="transparent"/>
                 </div>
                 <div className="progresbar">
                     <label htmlFor="">Java</label>

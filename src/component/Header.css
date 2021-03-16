@@ -1,5 +1,6 @@
 .TopBar {
     padding: 40px;
+    margin-bottom: 5rem;
 }
 
 .nameLogo {
@@ -91,6 +92,7 @@ ul {
       border: none;
       border-radius: 5px;
       float: right;
+      cursor: pointer;
   }
 
   #btn-backHome .fa-chevron-left {
@@ -105,3 +107,5 @@ ul {
     font-weight: 600;
     margin: 0.5rem 0.5rem;
   }
+
+ 
