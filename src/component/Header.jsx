@@ -61,9 +61,14 @@ const Header = () => {
                 </div>
 
                 <div data-aos="fade-up" className="title">
-                    <div id="title1">I'M FROM MALANG</div>
+                    <div id="title1">I'M FROM PASURUAN</div>
                     <div id="title2">A WEB DEVELOPER</div>
                 </div>
+
+                {/* <div data-aos="fade-up" className="title">
+                    <div id="title1">HELLO! I'M</div>
+                    <div id="title2">FAHMI FIRMANSYAH</div> 
+                 </div> */}
             </div>
     )
 }

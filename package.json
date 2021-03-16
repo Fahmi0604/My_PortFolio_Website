@@ -27,6 +27,12 @@
   "bootstrap": "^4.6.0",
   
     
+  "emailjs-com": "^2.6.4",
+  
+    
+  "google-maps-react": "^2.0.6",
+  
+    
   "react": "^17.0.1",
   
     

@@ -8,7 +8,7 @@ const Education = () => {
                 <div id="education-title">Education</div>
                 <div className="education-body">
                     <div className="title-degree">
-                    Computer Network Engineering Diploma
+                    Computer and Network Engineering Diploma
                         <div className="title-school">
                          - State Vocational School of Winongan
                         </div>

@@ -18,7 +18,8 @@ const Header = () => {
                 <div className="column-about">
                     <div id="aboutLogo">ABOUT</div>
                     <div id="name">Hi! I'm Fahmi Firmansyah</div>
-                    <div id="aboutMe">Far far Away, behind the world mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</div>
+                    {/* <div id="aboutMe">Far far Away, behind the world mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</div> */}
+                    <div id="aboutMe">I am a student majoring in Information Technology from the Malang State Polytechnic campus who has the ambition to create my own startup.</div>
                     <div id="resumeLink">
                         <a href="/resume">Checkout my resume</a>
                     </div>

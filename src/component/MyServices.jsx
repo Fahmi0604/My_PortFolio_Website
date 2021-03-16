@@ -24,7 +24,7 @@ const MyService = () => {
                     <p>Java</p>
                 </div>
                 <div className="column-service" id="service-3">
-                    <a href="#Servoces" className="fa fa-microchip"> </a>
+                    <a href="#Services" className="fa fa-microchip"> </a>
                     <p>Robotic</p>
                     <p>C/Arduino</p>
                 </div>
