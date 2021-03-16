@@ -27,7 +27,7 @@
 
 #about-img img {
     width: 30vw;
-    height: 45vw;
+    height: 75vh;
     border-radius: 10px;
     /* filter: drop-shadow(8px 8px 10px grey); */
 }
@@ -137,8 +137,8 @@
 }
 
 @media only screen 
-and (min-width : 1224px)
-and (max-width: 1600px)
+/* and (min-width : 1224px) */
+and (max-width: 1366px)
 and (-webkit-min-device-pixel-ratio: 1) {
     .About {
         padding-top: 3rem;
@@ -146,7 +146,7 @@ and (-webkit-min-device-pixel-ratio: 1) {
 
     #aboutLogo {
         font-size: 11.5rem;
-        margin-top: -4.5rem;
+        margin-top: -3.5rem;
     }
 
     #name {
@@ -200,6 +200,6 @@ and (-webkit-min-device-pixel-ratio: 1) {
 
     #about-img img {
         width: 27.5vw;
-        height: 40vh;
+        height: 70vh;
     }
 }
