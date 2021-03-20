@@ -6,9 +6,9 @@ const Footer = () => {
         <div className="footer" id="Footer">
             <div className="Link">
                 <div id="link-list">
-                    <a href="www.facebook.com" class="fa fa-facebook" > </a>
-                    <a href="www.twitter.com" class="fa fa-twitter" > </a>
-                    <a href="www.instagram.com" class="fa fa-instagram"> </a>
+                    <a href="https://www.facebook.com/rivalbocah.imortal/" class="fa fa-facebook" > </a>
+                    <a href="https://twitter.com/Fahmi5121" class="fa fa-twitter" > </a>
+                    <a href="https://www.instagram.com/_fahmifs/" class="fa fa-instagram"> </a>
                 </div>
                 <div id="title-contact"><a href="/contact">Contact Us</a></div>
                 <div id="email-contact">fahmifirmansyah917@gmail.com</div>

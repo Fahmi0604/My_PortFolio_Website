@@ -24,9 +24,9 @@ const Header = () => {
                         <a href="/resume">Checkout my resume</a>
                     </div>
                     <div className="link">
-                        <a href="www.facebook.com" class="fa fa-facebook" > </a>
-                        <a href="www.twitter.com" class="fa fa-twitter" > </a>
-                        <a href="www.instagram.com" class="fa fa-instagram"> </a>
+                        <a href="https://www.facebook.com/rivalbocah.imortal/" class="fa fa-facebook" > </a>
+                        <a href="https://twitter.com/Fahmi5121" class="fa fa-twitter" > </a>
+                        <a href="https://www.instagram.com/_fahmifs/" class="fa fa-instagram"> </a>
                     </div>
                     <div id="simple-contact">
                         <div id="title">Contact me here!</div>

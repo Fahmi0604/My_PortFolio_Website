@@ -26,7 +26,7 @@ const Portfolio = () => {
                         {/* My Mushaf adalah aplikasi Quran pocket yang saya buat sendiri, dimana di dalam nya sudah terdapat alarm sholat, serta audio di setiap surat-surat al-quran */}
                         My Mushaf is a pocket Quran application that I made myself, where there is already a prayer alarm in it, as well as audio in every chapter in the Quran
                         </div>
-                    <div id="project-view-1">View Project</div>
+                    <a href="https://github.com/Fahmi0604/MyMushaf_QuranPocket"><div id="project-view-1">View Project</div></a>
                 </div>
             </div>
             <div className="row-2">
@@ -39,7 +39,7 @@ const Portfolio = () => {
                     <div id="project-body-2">
                         Chronos watch is a time management application that I made myself. where there is already a countdown timer feature, as well as a stopwatch with an elegant appearance
                         </div>
-                    <div id="project-view-2">View Project</div>
+                    <a href="https://github.com/Fahmi0604/Kronos-watch"><div id="project-view-2">View Project</div></a>
                 </div>
             </div>
             <div className="row-3">
@@ -52,7 +52,7 @@ const Portfolio = () => {
                     <div id="project-body-3">
                         Pharmacy information system is a simple information system website about a pharmacy that I made myself, where there is already a login feature and is already based on the Mysql CRUD database.
                         </div>
-                    <div id="project-view-3">View Project</div>
+                    <a href="https://github.com/Fahmi0604/Apotik_SI"><div id="project-view-3">View Project</div></a>
                 </div>
             </div>
         </div>

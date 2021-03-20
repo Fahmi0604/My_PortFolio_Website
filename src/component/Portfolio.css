@@ -38,6 +38,15 @@
     clear: both;
   }
 
+  .column-port-1 a {
+      text-decoration: none;
+  }
+
+.column-port-1 a, #project-view-1:hover {
+    /* text-decoration: underline; */
+    color: rgba(255, 255, 255, .6);
+}
+
 #port-img-1 img {
     object-fit: cover;
     width: 30vw;
@@ -111,6 +120,14 @@
     display: table;
     clear: both;
   }
+.column-port-2 a {
+    text-decoration: none;
+}
+
+.column-port-2 a,  #project-view-2:hover {
+    /* text-decoration: underline; */
+    color: rgba(255, 255, 255, .6);
+}
 
 #port-img-2 img {
     object-fit: cover;
@@ -186,6 +203,15 @@
     display: table;
     clear: both;
   }
+
+.column-port-3 a {
+    text-decoration: none;
+}
+
+.column-port-3 a,  #project-view-3:hover {
+    /* text-decoration: underline; */
+    color: rgba(255, 255, 255, .6);
+}
 
 #port-img-3 img {
     object-fit: cover;
